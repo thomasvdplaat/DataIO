@@ -1,4 +1,4 @@
-# PHP school project
+# PHP project
 
 Bij deze opdracht ga je een eigen webservice /API datasysteem bouwen waarmee data feeds ingelezen en getoond kunnen worden.
 

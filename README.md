@@ -1,6 +1,4 @@
-# DataIO
-
-PHP32 Eindopdracht – nj2014
+# PHP32 Eindopdracht
 
 Voor het vak DV3 en PTM3 ga je een aantal datavisualisaties maken. Bij deze vakken worden een aantal eisen gesteld. Je moet bij de eindopdracht van PHP32 de data leveren die gebruik wordt bij de datavisualisatie die je bij DV3 gaat realiseren. 
 
